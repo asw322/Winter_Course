@@ -3,7 +3,7 @@ app.py is the business application layer that interacts with the underlying data
 to fulfill a client's REST requests
 '''
 import sys
-sys.path.insert(0, "./asdf")
+sys.path.insert(0, "./utilities")
 
 
 import os
