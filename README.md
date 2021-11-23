@@ -1,4 +1,4 @@
-## Winter Course Syllabus
+# Winter Course Syllabus
 
 Instructor: Professor Mooi Choo Chuah (mcc7@lehigh.edu)
 
@@ -8,13 +8,13 @@ Student Teaching Assistants & Graders:
 
 Length of project: 1 month 
 
-# Welcome & Foreward
+## Welcome & Foreward
 Welcome to this winter course! We want to thank and congratulate you if you're reading this, because it means you actively chose to utilize your winter break to better prepare yourself for life after Lehigh! 
 
-# Schedule
+## Schedule
 
 
-# Project Components
+## Project Components
     - Python Flask Server
         - 
     - Database 
@@ -22,7 +22,7 @@ Welcome to this winter course! We want to thank and congratulate you if you're r
     - React Front End 
         -
 
-# Assignments & Grading
+## Assignments & Grading
 Checkpoint 1           33%
 Checkpoint 2           33%
 Checkpoint 3           33%
@@ -40,7 +40,7 @@ We will utilize the standard Lehigh grade cutoffs for determining grades:
 We reserve the right to change the cutoffs in your favor to more accurately describe your effort and the final product in this course. Talk to your TA individually if you have any concerns about grading.
 
 
-# Academic Integrity
+## Academic Integrity
 PLEASE READ: Just because this is a 0 credit class does not mean that Academic Integrity goes out the window. You are still expected to follow all Academic Integrity policies as you would in any other class. If you have questions about this policy at any point throughout the semester, ask. 
 
 Lehigh University Undergraduate Student Senate Statement on Academic Integrity
@@ -58,7 +58,7 @@ Winter Course Specific Academic Integrity Rules
     - Use your best judgement. If you think what you are doing is unethical, it probably is.
 
 
-# Accomodations for Students with Disabilities 
+## Accomodations for Students with Disabilities 
 Lehigh University is committed to maintaining an equitable and inclusive community and welcomes students with disabilities into all of the University’s educational programs. In order to receive consideration for reasonable accommodations, a student with a disability must contact Disability Support Services (DSS), provide documentation, and participate in an interactive review process. If the documentation supports a request for reasonable accommodations, DSS will provide students with a Letter of Accommodations. Students who are approved for accommodations at Lehigh should share this letter and discuss their accommodations and learning needs with instructors as early in the semester as possible. For more information or to request services, please contact Disability Support Services in person in Williams Hall, Suite 301, via phone at 610-758-4152, via email at ​indss@lehigh.edu​, or online at ​https://studentaffairs.lehigh.edu/disabilities​.
 
 
